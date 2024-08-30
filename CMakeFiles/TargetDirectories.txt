@@ -1,0 +1,9 @@
+/data/data/com.termux/files/home/cmake-project/CMakeFiles/cmake_demo.dir
+/data/data/com.termux/files/home/cmake-project/CMakeFiles/package.dir
+/data/data/com.termux/files/home/cmake-project/CMakeFiles/package_source.dir
+/data/data/com.termux/files/home/cmake-project/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/cmake-project/CMakeFiles/rebuild_cache.dir
+/data/data/com.termux/files/home/cmake-project/CMakeFiles/list_install_components.dir
+/data/data/com.termux/files/home/cmake-project/CMakeFiles/install.dir
+/data/data/com.termux/files/home/cmake-project/CMakeFiles/install/local.dir
+/data/data/com.termux/files/home/cmake-project/CMakeFiles/install/strip.dir

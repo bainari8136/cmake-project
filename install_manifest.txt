@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/cmake-project/_CPack_Packages/Android/TZ/cmake-project-0.1.1-Android/bin/cmake_demo
